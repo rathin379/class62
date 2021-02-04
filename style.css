@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: deepskyblue;
+}
+
+.container
+{
+    text-align: center;
+    background-color: aquamarine;
+}
+#gamecarousel{
+    background-color: orangered;
+}
+#gamecarousel img{
+    height: 300px;
+    margin-top: 25px;
+}
+.carousel-inner p{
+    color: deepskyblue;
+    font-weight: bold;
+    font-family: monospace;
+}
